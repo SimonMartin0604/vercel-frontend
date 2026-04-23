@@ -87,7 +87,7 @@
     "loginToContinue": "Sign in to continue",
     "loginBtn": "Login",
     "registerBtn": "Register",
-    "loginEmailLabel": "Email",
+    "loginEmailLabel": "Email / Full Name",
     "loginEmailOrNameRequired": "Email is required",
     "loginEmailPlaceholder": "example@email.com",
     "loginPasswordLabel": "Password",

@@ -87,7 +87,7 @@
     "loginToContinue": "続けるにはログインしてください",
     "loginBtn": "ログイン",
     "registerBtn": "登録",
-    "loginEmailLabel": "メール",
+    "loginEmailLabel": "メール / フルネーム",
     "loginEmailOrNameRequired": "メールは必須です",
     "loginEmailPlaceholder": "私のメールアドレスは",
     "loginPasswordLabel": "パスワード",

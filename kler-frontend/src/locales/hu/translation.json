@@ -87,7 +87,7 @@
     "loginToContinue": "Jelentkezzen be a folytatáshoz",
     "loginBtn": "Bejelentkezés",
     "registerBtn": "Regisztráció",
-    "loginEmailLabel": "Email",
+    "loginEmailLabel": "Email / Teljes név",
     "loginEmailOrNameRequired": "Email kötelező",
     "loginEmailPlaceholder": "pelda@email.com",
     "loginPasswordLabel": "Jelszó",
