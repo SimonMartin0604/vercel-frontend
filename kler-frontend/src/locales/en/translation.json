@@ -89,7 +89,7 @@
     "registerBtn": "Register",
     "loginEmailLabel": "Email / Full Name",
     "loginEmailOrNameRequired": "Email is required",
-    "loginEmailPlaceholder": "example@email.com",
+    "loginEmailPlaceholder": "example@email.com / John Doe",
     "loginPasswordLabel": "Password",
     "loginPasswordPlaceholder": "Password",
     "registerUsernameLabel": "Full Name",

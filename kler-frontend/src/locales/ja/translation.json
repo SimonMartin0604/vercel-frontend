@@ -89,7 +89,7 @@
     "registerBtn": "登録",
     "loginEmailLabel": "メール / フルネーム",
     "loginEmailOrNameRequired": "メールは必須です",
-    "loginEmailPlaceholder": "私のメールアドレスは",
+    "loginEmailPlaceholder": "私のメールアドレスは / 田中太郎",
     "loginPasswordLabel": "パスワード",
     "loginPasswordPlaceholder": "パスワード",
     "registerUsernameLabel": "フルネーム",

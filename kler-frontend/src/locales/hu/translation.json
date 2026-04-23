@@ -89,7 +89,7 @@
     "registerBtn": "Regisztráció",
     "loginEmailLabel": "Email / Teljes név",
     "loginEmailOrNameRequired": "Email kötelező",
-    "loginEmailPlaceholder": "pelda@email.com",
+    "loginEmailPlaceholder": "pelda@email.com / Nagy Béla",
     "loginPasswordLabel": "Jelszó",
     "loginPasswordPlaceholder": "Jelszó",
     "registerUsernameLabel": "Teljes név",
