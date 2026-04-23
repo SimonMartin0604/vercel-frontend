@@ -204,7 +204,8 @@
     "addSiteTitle": "Add New Measuring Station Location",
     "siteNameFieldLabel": "Location Name",
     "siteLatFieldLabel": "Latitude",
-    "siteLonFieldLabel": "Longitude"
+    "siteLonFieldLabel": "Longitude",
+    "usernameLabel": "Username"
   },
   "airQuality": {
     "loginTitle": "Login to Dashboard",

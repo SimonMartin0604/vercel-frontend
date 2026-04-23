@@ -428,6 +428,7 @@ export default function AdminDashboard() {
                     <Table.Thead>
                         <Table.Tr>
                             <Table.Th>ID</Table.Th>
+                            <Table.Th>{t('admin.usernameLabel', 'Felhasználónév')}</Table.Th>
                             <Table.Th>Email</Table.Th>
                             <Table.Th>{t('admin.roleLabel', 'Szerepkör')}</Table.Th>
                             <Table.Th></Table.Th>
@@ -437,6 +438,7 @@ export default function AdminDashboard() {
                         {users.length > 0 ? users.map(u => (
                             <Table.Tr key={u.id}>
                                 <Table.Td>{u.id}</Table.Td>
+                                <Table.Td>{u.username || '-'}</Table.Td>
                                 <Table.Td><Text fw={500}>{u.email}</Text></Table.Td>
                                 <Table.Td>
                                     <Badge

@@ -204,7 +204,8 @@
     "addSiteTitle": "新しい測定ステーションの場所を追加",
     "siteNameFieldLabel": "場所の名前",
     "siteLatFieldLabel": "緯度",
-    "siteLonFieldLabel": "経度"
+    "siteLonFieldLabel": "経度",
+    "usernameLabel": "ユーザー名"
   },
   "airQuality": {
     "loginTitle": "ダッシュボードにログイン",

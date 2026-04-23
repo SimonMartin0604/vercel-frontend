@@ -204,7 +204,8 @@
     "addSiteTitle": "Új mérőállomás helyszín hozzáadása",
     "siteNameFieldLabel": "Helyszín neve",
     "siteLatFieldLabel": "Földrajzi szélesség",
-    "siteLonFieldLabel": "Földrajzi hosszúság"
+    "siteLonFieldLabel": "Földrajzi hosszúság",
+    "usernameLabel": "Felhasználónév"
   },
   "airQuality": {
     "loginTitle": "Belépés a Dashboardra",
