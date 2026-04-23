@@ -1,0 +1,12 @@
+.feature-card-link {
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.feature-card-link:hover {
+  transform: translateY(-5px);
+  box-shadow: rgba(0, 128, 128, 0.25) 0px 8px 16px;
+  border-color: var(--mantine-color-teal-6) !important;
+}

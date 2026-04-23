@@ -1,0 +1,21 @@
+{
+  "name": "KLER - Komplex Levegőminőség Elemző Rendszer",
+  "short_name": "KLER",
+  "description": "Forradalmi innováció a szállópor mérési technológiájában",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#099268",
+  "icons": [
+    {
+      "src": "/img/MobilAtmoSense.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/MobilAtmoSense.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
